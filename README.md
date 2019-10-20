@@ -6,4 +6,4 @@ A very simple dice game that allows the user to roll a pair of dice and it will 
 HTML, CSS, Javascript
 
 ### Do Your ToDo's
-(https://deroest6.github.io/Dice-Roll/) - Dice Rollin
+(https://deroest6.github.io/Dicee/) - Dice Rollin
