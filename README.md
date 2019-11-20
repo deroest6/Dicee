@@ -5,5 +5,5 @@ A very simple dice game that allows the user to roll a pair of dice and it will 
 ### Web Technology Stack
 HTML, CSS, Javascript
 
-### Do Your ToDo's
+### Keep on rollin 🎲 baby!
 (https://deroest6.github.io/Dicee/) - Dice Rollin
